@@ -1,16 +1,11 @@
-# iam_flutter
+# Identity and Access Management Flutter App
+This is an IAM flutter application mockup of my <a href='https://github.com/JavidMoradi/CS399-Summer-Training'>internship</a>'s front-end; please refer to the repository for functioanlity of the project, as this project serves the same functionality, and uses that repository's back-end.
 
-A new Flutter project.
+In brief, after a user logged in, an JSON Web Token is provided to user, and it is a mandatory requirement for each operation's header section. Later, All the methods available are presented. If the user has a credit to access a method, success alert will be give; otherwise, error alert will be given.
 
-## Getting Started
+Please refer to <a href='https://github.com/JavidMoradi/IAM-flutter-app/tree/main/ui'>here</a> for UI section of the project.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Used Technologies
+===
+- Flutter
+- Android Studio
